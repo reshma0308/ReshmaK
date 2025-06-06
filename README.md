@@ -15,6 +15,10 @@
 
 ###
 
+<h2 align="left">Connect with me:</h2> 👉 https://www.linkedin.com/in/reshma-kumari-582a49259/ | 📩 reshmakri.2011@gmail.com
+
+###
+
 <h2 align="left">Tech Stack:</h2>
 
 ###
