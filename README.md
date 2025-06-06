@@ -3,11 +3,11 @@
 
 ###
 
-<h2 align="center">Hi there 👋, I'm Reshma Kumari</h2>
+<h2 align="center">Hello World!! 👋, I'm Reshma Kumari</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
